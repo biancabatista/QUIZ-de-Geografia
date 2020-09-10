@@ -1,6 +1,7 @@
 # QUIZ-de-Geografia
 
 As bibliotecas utilizadas são tkinter e random. Você precisa ter as duas para rodar o programa.
+Por enquanto só testei em Windows.
 
 O projeto é um jogo educativo de perguntas e respostas sobre geografia, tendo como público alvo crianças de 8 a 12 anos. 
 Meu objetivo é colocar as respostas nos botões de modo randômico, para que a criança não 'decore a posição da resposta', precisando ler para aprender. 
